@@ -1,0 +1,1 @@
+questions = [Overall review", "Camera Quality", "Speed or performance", "battery life", "display or screen", "charging", "fingerprint", "audio", "storage", "call", "price"]
