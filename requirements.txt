@@ -4,3 +4,4 @@ flask == 2.2.3
 numpy == 1.21.6
 pandas == 1.0.5
 nltk == 3.8.1
+mysql ==  8.0.33
