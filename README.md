@@ -6,6 +6,8 @@ User based customized survey chatbot. Based on the phone and user review, the ch
 
 - Python
 - Flask
+- HTML
+- CSS
 - MySQL
 
 # libraries
