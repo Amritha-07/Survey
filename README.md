@@ -55,12 +55,6 @@ To access the web application from your web browser, you can enter the URL of yo
 
 You will see the home page of the web chatbot with an option to enter a phone name and a phone category. You can type any valid input (such as "phone" or "electronics") and click on Search.
 
-The web application will show you the phones that match your input and allow you to select one of them. You can click on any phone that you want to review and rate.
-
-The web application will ask you to write a short review of the phone and then start the survey by asking you questions based on your review. You can answer the questions by typing your responses or choosing from the options provided.
-
-The web application will store your responses and show you a summary of your survey results at the end.
-
 ## References
 
 This project dataset was from the following sources:
