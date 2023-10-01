@@ -2,7 +2,11 @@
 
 A User-Based Customized Survey Chatbot
 
-This project is a web-based application that uses a chatbot to conduct surveys based on user reviews. It uses the ChatGPT API to generate natural and engaging questions for the users, based on the features that they have mentioned in their reviews. The project aims to provide a personalized and interactive way to collect feedback and opinions from the users.
+This project is a web-based application that uses a chatbot to conduct surveys based on user reviews. The project aims to provide a personalized way to collect feedback and opinions from the users.
+
+<center>
+    <img src='img/snap_1.png' alt='image' width='90%' name='snap_1'/>
+</center>
 
 # Tech-Stack
 
@@ -14,13 +18,12 @@ This project is a web-based application that uses a chatbot to conduct surveys b
 
 ## Features
 
-- The application allows the user to enter a phone name and a phone category that they want to review.
-- The application allows the user to select a phone that they want to review and rate it on a scale of 1 to 5 stars.
+- The application allows the user to enter a phone name that they want to review.
 - The application allows the user to write a short review of the phone, highlighting its pros and cons, likes and dislikes, etc.
-- The application uses the ChatGPT API to analyze the user review and generate relevant and follow-up questions for the user, based on the features that they have mentioned in their review.
+- The application uses the ChatGPT API to analyze the user review and generate relevant and follow-up questions for the user.
 - The application uses natural language processing (NLP) techniques, such as tokenization, lemmatization, stopword removal, etc., to preprocess the user review and extract the keywords and topics.
-- The application uses a predefined list of questions for each phone category and feature, and selects the most appropriate ones for the user, based on their review and rating.
-- The application engages the user in a conversational survey, asking them questions about their experience, preferences, suggestions, etc., related to the phone and its features.
+- The application also uses a predefined list of questions.
+- The application engages the user in a conversational survey, asking them questions about their experience, preferences, suggestions, etc.
 - The application stores the user responses and the survey results in a MySQL database.
 
 ## Installation and Usage
