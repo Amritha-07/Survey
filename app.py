@@ -5,6 +5,7 @@ import os
 import nltk
 import mysql.connector
 from collections import Counter
+import key
 
 # my sql connection
 mysql = mysql.connector.connect(
@@ -35,7 +36,7 @@ corpus = set()
 new_corpus = []
 
 import openai
-openai.api_key = "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"
+openai.api_key = key.OPENAI_API_KEY
 
 questions = ['camera','speed','battery','display','fingerprint','audio','storage', 'calls', 'price']
 
